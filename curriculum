@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<div style="margin:50px 10%; border:2px solid;" class="border-info p-4">
+    <header class="row mb-4">
+        <div class="col-sm row">
+                <img class="mx-3" src="foto.jpg" alt="GabrielMedrano">
+            <div class="col-sm mt-2 text-secondary">
+                <h4>JOSE GABRIEL</h4>
+                <h3>VILLCA MEDRANO</h3>
+            </div>
+        </div>
+        <div class="col-sm">
+            <h3 class="text-info">MARKETING</h3>
+            <p>Celular: 69881471</p>
+            <p>E-mail: medmedranogabo@gmail.com</p>
+        </div>
+    </header>
+    <div class="row">
+        <section class="col-sm">
+            <article>
+                <h3 class="pb-2 border-bottom border-info text-info">QUIEN SOY</h3>
+                <p class="text-justify">Soy Jose Gabriel Villca Medrano naci en la Cuidad de La Paz, amante de la computacion, programacion Web y de la musica. Soy una persona que cada dia se supera con ganas de crecer como profesional y aportar a nuestra amada Bolivia.</p>
+            </article>
+            <article>
+                    <h3 class="pb-2 border-bottom border-info text-info">PROGRAMAS</h3>
+                    <p>HTML: 90%</p>
+                    <p>CSS: 80%</p>
+                    <p>VISUAL.NET: 40%</p>
+                    <p>PHP: 60%</p>
+                    <P>REDES: 75%</P>
+            </article>
+            <article>
+                    <h3 class="pb-2 border-bottom border-info text-info">IDIOMAS</h3>
+                    <p>ESPAÑOL: 90%</p>
+                    <p>INGLES: 70% En el area de Ingenieria de sistemas</p>
+            </article>
+        </section>
+        <section class="col-sm">
+                <h3 class="pb-2 border-bottom border-info text-info">EXPERIENCIA LABORAL</h3>
+            <article>
+                    <h5>CAFE INTERNET</h5>
+                    <p>Encargado del mantenimiento de redes</p>
+            </article>
+            <article>
+                <h5>Agencia de SOAT</h5>
+                <p>VENDEDOR DE SOAT</p>
+                <p>Encargado de vender soat en</p>
+            </article>
+            <article>
+                <h5>SERCONEIN.SRL</h5>
+                <p>MARKETING</p>
+                <p>Administrador de redes Sociales</p>
+                <p>Empresa de contabilidad encargado de la publicidad y organizador de archivos</p>
+            </article>
+
+        </section>
+    </div>
+    <div class="row">
+            <section class="col-sm">
+                <h3 class="pb-2 border-bottom border-info text-info">FORMACION PROFESIONAL</h3>
+                <article>
+                    <p>- Julio de 2012. Casa de musica, INSTITUTO ADONAI: Instrumento guitarra (Grado-experto). </p>
+                    <p>- Agosto de 2013. Facultad de Ingenieria, Universidad Tecnologica Boliviana: Ingenieria en sistemas (Grado-Egresado).</p>
+                </article>
+            </section>
+            <section class="col-sm">
+                    <h3 class="pb-2 border-bottom border-info text-info">EXPERIENCIA LABORAL</h3>
+                <article>
+                    <p>- Noviembre de 2013: Taller de fibra Optica y Sistemas satelitales</p>
+                    <p>- Marzo de 2014: Taller de nanotecnologia, robotica e inteligencia artificial</p>
+                    <p>- Junio de 2014: Taller de Visual basic aplicaciones - Excel,curso de vigilancia con Tecnologia IP</p>
+                    <p>- Septiembre de 2014: Seminario sobre emprendimiento tecnologico</p>
+                    <p>- mayo de 2015: Taller de Desarrollo en Google Drive </p>
+                    <p>- noviembre de 2016: Seminario de Telematica y control via raspberry</p>
+                    <p>- Octubre de 2018: Curso On-Line introduccion al desarrollo web de la Universidad de ALACANT</p>
+                </article>
+    
+            </section>
+        </div>
+
+</div>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>
